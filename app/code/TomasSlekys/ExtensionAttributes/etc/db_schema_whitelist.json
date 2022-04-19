@@ -1,0 +1,13 @@
+{
+    "tomasslekys_extensionattributes_source_extension_attributes": {
+        "column": {
+            "id": true,
+            "source_code": true,
+            "example_attribute": true,
+            "other_extension_attribute": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
